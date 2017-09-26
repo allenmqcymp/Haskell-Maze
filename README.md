@@ -2,7 +2,7 @@
 
 # Motivation
 
-This is the first assignment for ANU's 2017 Introduction to Programming course in Haskell. 
+This is a simple maze game I created to learn about functional programming. After completing this project, I learned how to represent state-fulness in a functional paradigm, as well as about types, functional purity, closures, and higher-order recursion.
 
 # Code 
 
